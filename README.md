@@ -9,14 +9,10 @@
 
 <h3 align="center">Contacts</h3>
 
-<div align="center"> 
-  <a href="https://t.me/theharald" target="_blank">
-     <img src="https://img.shields.io/badge/telegram-pink?style=for-the-badge&logo=telegram" target="_blank" />
-  </a>
-  <a href="mailto:romasurinov13@mail.ru" target="_blank">
-     <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail" target="_blank" />
-  </a>
-</div>
+<p align="center"> 
+  <a href="https://t.me/theharald" target="_blank" src=""><img src="https://img.shields.io/badge/telegram-pink?style=for-the-badge&logo=telegram" target="_blank" /></a>
+  <a href="mailto:romasurinov13@mail.ru" target="_blank"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail" target="_blank" /></a>
+</p>
 
 <h3 align="center">Languages and Tools</h3>
 
@@ -27,13 +23,15 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-
-  <br/><br/><br/>
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/theharald/theharald/output/github-contribution-grid-snake-dark.svg" />
+  <br><br/><br/><br/>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
- 
+<div align="center" >
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theharald&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ <br/>
+ <img src="https://streak-stats.demolab.com/?user=theharald&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+ <img src="https://github-readme-stats.vercel.app/api/?username=theharald&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
+
